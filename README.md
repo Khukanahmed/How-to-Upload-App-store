@@ -1,4 +1,3 @@
-
 # 📲 How to Upload an iOS App to the App Store
 
 This guide covers the complete process for uploading an iOS app to the App Store using Xcode and App Store Connect — including common issues and solutions based on real-world experience.
@@ -162,23 +161,6 @@ If your app involves in-app purchases or subscriptions, you must clearly explain
 - Use **Apple’s In-App Purchase system**
 - Mention terms & refund policy in your UI
 
----
 
-## 📂 GitHub Integration
-
-To add this guide to your repository:
-
-1. Create a new file:
-   ```
-   AppStore_Upload_Guide.md
-   ```
-   or update your existing:
-   ```
-   README.md
-   ```
-
-2. Paste this full content and commit changes
-
----
 
 Made with ❤️ for iOS developers to save time & avoid frustration.
